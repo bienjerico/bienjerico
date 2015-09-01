@@ -191,7 +191,7 @@
                       <p>
                             <b class="text-primary">Senior Software Engineer</b> February 2013 to August 2014 <i>(1 year and 7 months)</i>
                             <br/>
-                            <b>Software Engineer</b> April 2011 to October 2012 <i>(1 year and 7 months)</i>
+                            <b class="text-primary">Software Engineer</b> April 2011 to October 2012 <i>(1 year and 7 months)</i>
                             <br/>
                             Developed and designed web application and database structure. Troubleshoot and maintain the existing system. 
                             <br/>
