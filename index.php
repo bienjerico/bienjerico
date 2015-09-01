@@ -11,6 +11,10 @@
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    
+
+  
+  
     <style>
         *{
             /*font-family: 'Ubuntu Condensed', sans-serif;*/
@@ -18,7 +22,11 @@
             font-family: 'Rajdhani', sans-serif;
         }
 
+        .ui-accordion-header{
+            padding: 5px 5px 5px 5px;
+        }
 
+        h1, h2, h3, h4{outline:none;}
     </style>
 </head>	
 <body>
@@ -31,7 +39,7 @@
         <![endif]-->
         <script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/responsive-nav.js"></script>
-        
+         <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
         <!-- Latest compiled and minified JavaScript -->
         <script src="assets/js/bootstrap.min.js"></script>
         
@@ -115,11 +123,11 @@
 		<section class="module content">
         <div class="container"  id="skills">
 
-			<h2><span class="label label-default">Skills</span></h2>
+			<h2><span class="label-name-2-black">Skills</span></h2>
 				<p>
 					<b class="text-primary">Programming</b>
 				   	<br/>
-					HTML5, PHP 5, CSS3, Javascript, Ajax, JSON, jQuery, Shell Script, API
+					HTML 5, PHP 5,  Javascript, Ajax, JSON, jQuery, CSS3, Bootstrap, Node JS, XML, Adobe AEM WCM, Shell Script, APIs.
 				</p>
 
 				<p>
@@ -133,91 +141,86 @@
 					<br/>
 					MySQL, MSSQL, Oracle: 9i, MS Access
 				</p>
+                                
+                                <p>
+					<b class="text-primary">Networking</b>
+					<br/>
+					Aruba Networks, Firewall Fortinet FortiGate, IPtables, DHCP, Squid Proxy Server.
+				</p>
 
 				<p>
 					<b class="text-primary">Tools</b>
-					<br/>
-					XAMPP, LAMP, IIS7
-					<br/>
-					Sublime Text 2, Netbeans 7, WebMatrix, Notepad++, MySQL Workbench
-					<br/> 
-					SVN and GIT (version control), PuTTY, FileZilla, WinSCP, VMware Player
-					<br/>
-					Microsoft SQL Server, Microsoft Visual Studio 2008 R2, Office Word, Excel, Vision, PowerPoint and Outlook
+                                        <br/>
+					XAMPP, LAMP, IIS, 
+                                        <br/>
+                                        Sublime Text, Netbeans, SVN, GIT 
+                                        <br/>
+                                        Microsoft SQL Server, Microsoft Visual Studio 2008 R2
+                                        <br/>
+                                        WebMatrix, Notepad++, Microsoft Office Word, Excel, Visio, PowerPoint and Outlook
+                                        <br/>
+                                        PuTTy, WinSCP, MySQL Workbench, CRXDE Lite.
 				</p>
 
 				<p>
 					<b class="text-primary">OS</b>
 				   	<br/>
-					Window XP, 7, 8 and Ubuntu
+					Window XP, 7, 8, Ubuntu and CentOS
 				</p>
                                 
 
 		</div>
 		</section>
-			
 
-
-
-		<section class="module parallax parallax-2">
-        <div class="container" id="experience">	
-				 <h2><span class="label label-default">Experience</span></h2> 
- 
-<!--			 	<p class="font-white font-shadow">	
-					More than 3 years experienced as a open source web application developer. 
-					<br/>
-					Background experienced in font-end/back-end object oriented programming with MySQL database. 
-					<br/>
-					My Objective is to learn more latest web technologies and integrate in different projects and environment.
-				</p>-->
-
-				<p class="font-white font-shadow">
-					<b class="text-primary">Yondu IT Solutions</b>
-					<br/>
-					<span class="fontsize-80">
-					<b>Software Engineer</b> September 2014 to Present <i>(1 month)</i>
-					<br/>
-					Developed and designed web application and database structure. Research and provide new technology for system development. 
-					</span>
-				</p>
-
-				<p class="font-white font-shadow">
-					<b class="text-primary">BPO International, Inc.</b>
-					<br/>
-					<span class="fontsize-80">
-					<b>Senior Software Engineer</b> February 2013 to August 2014 <i>(1 year and 7 months)</i>
-					<br/>
-					<b>Software Engineer</b> April 2011 to October 2012 <i>(1 year and 7 months)</i>
-					<br/>
-					<b>On the Job Training</b> February 2011 to April 2013 <i>(3 months)</i>
-					<br/>
-					Developed and designed web application and database structure. Troubleshoot and maintain the existing system. 
-					<br/>
-					Setup and administer database client databases. Provide system update report. Research new idea for system development. 
-					<br/>
-					Provide new functionalities to enhancement of system. Analyze the system flow. 
-					</span>
-				</p>
-
-				<p class="font-white font-shadow">
-					<b class="text-primary">Samsung Electronics Philippines Corporation (SEPCO)</b>
-					<br/>
-					<span class="fontsize-80">
-					<b>Web Developer</b> November 2012 to January 2013 <i>(3 months)</i>
-					<br/>
-					Troubleshoot in-house web application. Update existing system. Developed web application and designed user interface. 
-					<br/>
-					Create and designed database structure.
-					</span>
-				</p> 
-		</div>
-		</section>
+            <section class="module parallax parallax-2">
+            <div class="container" id="experience">	
+            <h2><span class="label-name-2-white" style="text-shadow: 1px 1px #000;">Experience</span></h2> 
+                <div id="accordion">
+                    <h3>Yondu IT Solutions</h3>
+                    <div>
+                      <p>
+                            <b class="text-primary">Software Engineer</b> September 2014 to Present <i>(1 year)</i>
+                            <br/>
+                            Back-end Developer.Developed and optimized a system.Planning and designed system architecture.
+                            <br/>
+                            Setup network configuration.Define and troubleshoot the problem. Create documentation for development and implementation.                                 
+                      </p>
+                  </div>
+                    <h3>BPO International, Inc.</h3>
+                    <div>
+                      <p>
+                            <b class="text-primary">Senior Software Engineer</b> February 2013 to August 2014 <i>(1 year and 7 months)</i>
+                            <br/>
+                            <b>Software Engineer</b> April 2011 to October 2012 <i>(1 year and 7 months)</i>
+                            <br/>
+                            Developed and designed web application and database structure. Troubleshoot and maintain the existing system. 
+                            <br/>
+                            Setup and administer database client databases. Provide system update report. Research new idea for system development. 
+                            <br/>
+                            Provide new functionalities to enhancement of system. Analyze the system flow. 
+                      </p>
+                  </div>
+                  <h3>Samsung Electronics Philippines Corporation (SEPCO)</h3>
+                    <div>
+                        <p>
+                            <b class="text-primary">Web Developer</b> November 2012 to January 2013 <i>(3 months)</i>
+                            <br/>
+                            Troubleshoot in-house web application. Update existing system. 
+                            <br/>
+                            Developed web application and designed user interface. 
+                            <br/>
+                            Create and designed database structure.
+                        </p>
+                  </div>                
+            </div>
+        </div>
+        </section>
 
 
 		<section class="module content">
         <div class="container" id="projects">
 
-			<h2><span class="label label-default">Projects</span></h2>
+			<h2><span class="label-name-2-black">Projects</span></h2>
 			<p>
 				<b class="text-primary">Captive Portal</b> <b>Yondu IT Solutions</b>
 				<br/>
@@ -271,7 +274,7 @@
 		<section class="module parallax parallax-3">
         <div class="container" id="certificate">
 
-			<h2><span class="label label-default">Certificate</span></h2>
+			<h2><span class="label-name-2-white">Certificate</span></h2>
 			<p class="font-white font-shadow">
 				<b class="text-primary">Microsoft Certified Professional</b>
 				<br/>
@@ -283,13 +286,19 @@
 				<br/>
 				Effective Business Communication <i>September 2013</i>
 			</p>
+                        
+                        <p class="font-white font-shadow">
+				<b class="text-primary">Yondu IT Solutions</b>
+				<br/>
+				ADOBE Web Content Management System <i>July 2014</i>
+			</p>
 		
 		</div>
 		</section>
 
 		<section class="module content">
         <div class="container" id="contact">
-			<h2><span class="label label-default">Contact</span></h2>
+			<h2><span class="label-name-2-black">Contact</span></h2>
 
 			<p>
 				<b class="text-primary">Skype</b>
@@ -330,14 +339,11 @@
 <script src="assets/js/scroll.js"></script>
 <script src="assets/js/fixed-responsive-nav.js"></script>
 <script src="assets/js/main.js"></script>
-<script src="assets/js/circle-progress.js"></script>
 <script>
-    $('#circle').circleProgress({
-        value: 0.75,
-        size: 80,
-        fill: {
-            gradient: ["orange"]
-        }
+    $(function() {
+      $( "#accordion" ).accordion({
+        collapsible: true
+      });
     });
 </script>
 <!---

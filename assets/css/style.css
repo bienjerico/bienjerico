@@ -9,11 +9,11 @@ main {
 }
 
 .container {
-/*  width: 100%;
-  max-width: 100%;
+  width: 80%;
+  /*max-width: 80%;*/
   margin: 0 auto;
-  padding: 0 20px;*/
-width: auto !important; /*just to override your inline CSS */
+  padding: 0 20px;
+/*width: auto !important; just to override your inline CSS */
     left: 0;
     right: 0;
 }
@@ -41,6 +41,19 @@ note {
     color: #ffffff;
 }
 
+.label-name-2-white{
+    font-weight: bold;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.label-name-2-black{
+    font-weight: bold;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 50px;
+    color: #000;
+}
 
 /* ============================================================
   SECTIONS
@@ -92,7 +105,7 @@ section.module.parallax-1 {
 }
 section.module.parallax-2 {
   padding-top: 80px;
-  height: 900px;
+  height: 700px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -118,11 +131,24 @@ section.module.parallax-3 {
 @media all and (min-width: 320px) {
 
   
-  .label-name{
-      padding-top: 150px;
-      font-size: 50px;
-  }
-  
+    .label-name{
+        padding-top: 150px;
+        font-size: 50px;
+    }
+    .label-name-2-white{
+        font-weight: bold;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 30px;
+        color: #ffffff;
+    }
+
+    .label-name-2-black{
+        font-weight: bold;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 30px;
+        color: #000;
+    }
+
 }
 @media all and (min-width: 600px) {
   section.module h2 {
@@ -140,6 +166,20 @@ section.module.parallax-3 {
       font-size: 100px;
   }
   
+      .label-name-2-white{
+        font-weight: bold;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 40px;
+        color: #ffffff;
+    }
+
+    .label-name-2-black{
+        font-weight: bold;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 40px;
+        color: #000;
+    }
+  
 }
 @media all and (min-width: 960px) {
   section.module.parallax h1 {
@@ -150,6 +190,20 @@ section.module.parallax-3 {
       padding-top: 100px;
       font-size: 150px;
   }
+  
+      .label-name-2-white{
+        font-weight: bold;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 50px;
+        color: #ffffff;
+    }
+
+    .label-name-2-black{
+        font-weight: bold;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 50px;
+        color: #000;
+    }
 }
 
 
@@ -451,4 +505,24 @@ header {
 }
 .carousel-control.right {
     background-image: none;
+}
+
+/* CUSTOMIZE THE ACCORDION
+-------------------------------------------------- */
+
+#accordion > h3 {
+    color:#ffffff; 
+    font-weight: bolder;
+    cursor: pointer;
+    text-decoration: none; 
+    text-shadow: 1px 1px #000;
+    border-bottom: 2px solid #f7c222;
+}
+#accordion > div {
+    background-color:#ffffff;
+    border-radius: 10px; 
+}
+#accordion > div > p {
+    padding: 15px 5px 0px 5px;  
+     height: 300px !important;
 }
