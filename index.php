@@ -235,10 +235,10 @@
 					Background experienced in font-end/back-end object oriented programming with MySQL database. 
 					<br/>
 					My Objective is to learn more latest web technologies and integrate in different projects and environment.
-				</p>
+				</p>-->
 
 				<p class="font-white font-shadow">
-					<b class="text-primary">Yondu</b>
+					<b class="text-primary">Yondu IT Solutions</b>
 					<br/>
 					<span class="fontsize-80">
 					<b>Software Engineer</b> September 2014 to Present <i>(1 month)</i>
@@ -275,7 +275,7 @@
 					<br/>
 					Create and designed database structure.
 					</span>
-				</p> -->
+				</p> 
 		</div>
 		</section>
 
@@ -284,131 +284,12 @@
         <div class="container" id="projects">
 
 			<h2><span class="label label-default">Projects</span></h2>
-                        
-                        
-                        <div class="accordion horizontal">
-		  <section id="test1">
-		      <h2><a href="#test1">About Us</a></h2>
-		      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id lobortis massa. Nunc viverra velit leo, sit amet elementum mi. Fusce posuere nunc a mi tempus malesuada. Curabitur facilisis rhoncus eros eget placerat. Aliquam semper mauris sit amet justo tempor nec lacinia magna molestie. Etiam placerat congue dolor vitae adipiscing. Aliquam ac erat lorem, ut iaculis justo. Etiam mattis dignissim gravida. Aliquam nec justo ante, non semper mi. Nulla consectetur interdum massa, vel porta enim vulputate sed. Maecenas elit quam, egestas eget placerat non, fringilla vel eros. Nam vehicula elementum nulla sed consequat. Phasellus eu erat enim. Praesent at magna non massa dapibus scelerisque in eu lorem.</p>
-		  </section>
-		  <section id="test2">
-		      <h2><a href="#test2">Services</a></h2>
-		      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id lobortis massa. Nunc viverra velit leo, sit amet elementum mi. Fusce posuere nunc a mi tempus malesuada. Curabitur facilisis rhoncus eros eget placerat. Aliquam semper mauris sit amet justo tempor nec lacinia magna molestie. Etiam placerat congue dolor vitae adipiscing. Aliquam ac erat lorem, ut iaculis justo. Etiam mattis dignissim gravida. Aliquam nec justo ante, non semper mi. Nulla consectetur interdum massa, vel porta enim vulputate sed. Maecenas elit quam, egestas eget placerat non, fringilla vel eros. Nam vehicula elementum nulla sed consequat. Phasellus eu erat enim. Praesent at magna non massa dapibus scelerisque in eu lorem.</p>
-		  </section>
-		  <section id="test3">
-		      <h2><a href="#test3">Blog</a></h2>
-		      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id lobortis massa. Nunc viverra velit leo, sit amet elementum mi. Fusce posuere nunc a mi tempus malesuada. Curabitur facilisis rhoncus eros eget placerat. Aliquam semper mauris sit amet justo tempor nec lacinia magna molestie. Etiam placerat congue dolor vitae adipiscing. Aliquam ac erat lorem, ut iaculis justo. Etiam mattis dignissim gravida. Aliquam nec justo ante, non semper mi. Nulla consectetur interdum massa, vel porta enim vulputate sed. Maecenas elit quam, egestas eget placerat non, fringilla vel eros. Nam vehicula elementum nulla sed consequat. Phasellus eu erat enim. Praesent at magna non massa dapibus scelerisque in eu lorem.</p>
-		  </section>
-		  <section id="test4">
-		      <h2><a href="#test4">Portfolio</a></h2>
-		      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id lobortis massa. Nunc viverra velit leo, sit amet elementum mi. Fusce posuere nunc a mi tempus malesuada. Curabitur facilisis rhoncus eros eget placerat. Aliquam semper mauris sit amet justo tempor nec lacinia magna molestie. Etiam placerat congue dolor vitae adipiscing. Aliquam ac erat lorem, ut iaculis justo. Etiam mattis dignissim gravida. Aliquam nec justo ante, non semper mi. Nulla consectetur interdum massa, vel porta enim vulputate sed. Maecenas elit quam, egestas eget placerat non, fringilla vel eros. Nam vehicula elementum nulla sed consequat. Phasellus eu erat enim. Praesent at magna non massa dapibus scelerisque in eu lorem.</p>
-		  </section>
-		  <section id="test5">
-		      <h2><a href="#test5">Contact</a></h2>
-		      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id lobortis massa. Nunc viverra velit leo, sit amet elementum mi. Fusce posuere nunc a mi tempus malesuada. Curabitur facilisis rhoncus eros eget placerat. Aliquam semper mauris sit amet justo tempor nec lacinia magna molestie. Etiam placerat congue dolor vitae adipiscing. Aliquam ac erat lorem, ut iaculis justo. Etiam mattis dignissim gravida. Aliquam nec justo ante, non semper mi. Nulla consectetur interdum massa, vel porta enim vulputate sed. Maecenas elit quam, egestas eget placerat non, fringilla vel eros. Nam vehicula elementum nulla sed consequat. Phasellus eu erat enim. Praesent at magna non massa dapibus scelerisque in eu lorem.</p>
-		  </section>
-		</div>
-                        
-                        
-                        <div class="row">
-                                    <div class="col-xs-6 col-md-4">
-                                        <!--<img src="assets/img/20150821_124801-01.jpeg" class="img-thumbnail">-->
-                                        <div id="square" class="img-rounded"></div>
-                                    </div>
-                                    <div class="col-xs-6 col-md-4">
-                                     <!--<img src="assets/img/20150821_124801-01.jpeg" class="img-thumbnail">-->
-                                        <div id="square" class="img-rounded"></div>
-                                    </div>
-                                    <div class="col-xs-6 col-md-4">
-                                      <!--<img src="assets/img/20150821_124801-01.jpeg" class="img-thumbnail">-->
-                                    <div id="square" class="img-rounded"></div>
-                                    </div>
-                            <div class="clearfix">&nbsp;</div>
-                                <div class="col-xs-6 col-md-4">
-                                   <!--<img src="assets/img/20150821_124801-01.jpeg" class="img-thumbnail">-->
-                                    <div id="square"  class="img-rounded"></div>
-
-                                </div>
-                                <div class="col-xs-6 col-md-4">
-                                  <!--<img src="assets/img/20150821_124801-01.jpeg" class="img-thumbnail">-->
-                                    <div id="square" class="img-rounded"></div>
-
-                                </div>
-                                <div class="col-xs-6 col-md-4">
-                                <!--<img src="assets/img/20150821_124801-01.jpeg" class="img-thumbnail">-->
-                                    <div id="square" class="img-rounded"></div>
-
-                                </div>
-                 
-                        </div>
-<!--                            Carousel
-    ================================================== 
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-       Indicators 
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1" class=""></li>
-        <li data-target="#myCarousel" data-slide-to="2" class=""></li>
-      </ol>
-      <div class="carousel-inner" role="listbox">
-        <div class="item active">
-         
-            <div class="carousel-caption">
-                <h3 class="">Captive Portal</h3>
-             
-                    <b>Yondu</b>
-               
-                <p>On going project...
-                    <br/>
-                    <note><i>PHP 5, HTML 5, CSS3, Javascript (Ajax and jQuery), MySQL, Apache</i></note>
-                </p>
-            </div>
-          
-        </div>
-        <div class="item">
-          
-            <div class="carousel-caption">
-                <h3>Time and Attendance System</h3>
-               
-                    <b>BPO International, Inc.</b>
-               
-                <p>
-                    Combination of Leave Management Module, Overtime Management Module, Schedule Management Module, Timekeeping Module.
-                    System provide PDF, Excel reports and email notification in every transaction.
-                    Client can access the system using internet.
-                    <br/>
-                    <note><i>PHP 5 (PHP Native with Object Oriented Programming), HTML 5, CSS3 (Twitter Bootstrap), Javascript (Ajax and jQuery), MySQL, Apache, STMP</i></note>
-                </p>
-            </div>
-         
-        </div>
-        <div class="item">
-        
-            <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="http://getbootstrap.com/examples/carousel/#" role="button">Browse gallery</a></p>
-            </div>
-        
-        </div>
-      </div>
-      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div> /.carousel -->
-                        
-                        
-<!--			<p>
-				<b class="text-primary">Captive Portal</b> <b>Yondu</b>
+			<p>
+				<b class="text-primary">Captive Portal</b> <b>Yondu IT Solutions</b>
 				<br/>
-				On going project...
-				<br/>
-				<note><i>PHP 5, HTML 5, CSS3, Javascript (Ajax and jQuery), MySQL, Apache</i></note>
+				A Web page that is shown before using the Internet. 
+                                <br/>
+                                We used Facebook API to login to portal and portal send a XML to Aruba Access Controller to grant the user for internet connection.
 				<br/>
 				<br/>
 
@@ -420,15 +301,11 @@
 				<br/>
 				Client can access the system using internet.
 				<br/>
-				<note><i>PHP 5 (PHP Native with Object Oriented Programming), HTML 5, CSS3 (Twitter Bootstrap), Javascript (Ajax and jQuery), MySQL, Apache, STMP</i></note>
-				<br/>
 				<br/>
 
 				<b class="text-primary">Employee Connection (E-CON)</b> <b>BPO International, Inc.</b>
 				<br/>
 				System developed to show updated news, photos, birthday celebrant, employee feedback module, office directory and also connected to Time and Attendance System.
-				<br/>
-				<note><i>PHP 5 (PHP Native with Object Oriented Programming), HTML 5, CSS3 (Twitter Bootstrap), Javascript (Ajax and jQuery), MySQL, Apache, STMP</i></note>
 				<br/>
 				<br/>
 				
@@ -438,8 +315,6 @@
 				<br/>
 				Some of the client use ASP.NET for their company system, using SOAP can access the system.
 				<br/>
-				<note><i>PHP 5 (PHP Native with Object Oriented Programming), HTML 5, CSS3, Javascript (Ajax and jQuery), MySQL, Apache</i></note>
-				<br/>
 				<br/>
 
 				<b class="text-primary">Account Payable and Expenses Report Monitoring System</b> <b>BPO International, Inc.</b>
@@ -448,17 +323,13 @@
 				<br/>
 				This system use by Receiver, Processor and Reviewer to process the invoice. 
 				<br/>
-				<note><i>PHP 5 (PHP Native with Object Oriented Programming), HTML 5, CSS3, Javascript (Ajax and jQuery), MySQL, Apache</i></note>
-				<br/>
 				<br/>
 				
 				<b class="text-primary">Consumer Training Program</b> <b>SEPCO</b>
 				<br/>
 				Online training registration for the consumer.
-				<br/>
-				<note><i>PHP 5 (ADOdb Library), HTML 5, CSS3, Javascript (Ajax and jQuery), MSSQL, IIS7 and Microsoft Visual Studio 2008 R2.</i></note>
-
-			</p>-->
+				
+			</p>
 		</div>
 		</section>
 
