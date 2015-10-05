@@ -28,7 +28,9 @@
 
         h1, h2, h3, h4{outline:none;}
     </style>
-</head>	
+</head>
+
+	
 <body>
         <script src="assets/js/modernizr.js"></script>
 	
@@ -38,7 +40,7 @@
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
         <script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/responsive-nav.js"></script>
+	     <script src="assets/js/responsive-nav.js"></script>
          <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
         <!-- Latest compiled and minified JavaScript -->
         <script src="assets/js/bootstrap.min.js"></script>
@@ -72,49 +74,7 @@
         <section class="module parallax parallax-1">
         <div class="container" id="about">
       
-            
-              <!--<img src="assets/img/logo.png" style="width:100px;">-->
-           
-            <!--<div class="clearfix">&nbsp;</div>-->
-    
             <div class="label-name">bienjerico</div>
-<!--                    <p class="font-white font-shadow">
-                            Is twenty plus of age and five-nine tall with slim body type
-                            <br/>
-                            Is a graduate of Informatics Internation College, Northgate Alabang and currently working at Yondu
-                            <br/>
-                            Is interested in travelling around the world, road trip, camping, island hopping, bar hopping and playing Dota One to Two and league of legends
-                            <br/>
-                            Is accepting layout, graphic, web, logo, invitation, t-shirt, car designs
-                    </p>-->
-            
-            <!-- Trigger the modal with a button -->
-            
-<!--<div class="square" data-toggle="modal" data-target="#myModal">Open Modal</div>-->
-
-<!-- Modal -->
-<!--<div id="myModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-
-     Modal content
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Modal Header</h4>
-      </div>
-      <div class="modal-body">
-        <p>Some text in the modal.</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-
-  </div>
-</div>-->
-
-
-
 
         </div>
         </section>
@@ -127,7 +87,7 @@
 				<p>
 					<b class="text-primary">Programming</b>
 				   	<br/>
-					HTML 5, PHP 5,  Javascript, Ajax, JSON, jQuery, CSS3, Bootstrap, Node JS, XML, Adobe AEM WCM, Shell Script, APIs.
+					HTML 5, PHP 5 (familiar with Laravel Framework),  Javascript, Ajax, JSON, jQuery, CSS3, Bootstrap, Node JS, XML, Shell Script, APIs.
 				</p>
 
 				<p>
@@ -222,11 +182,9 @@
 
 			<h2><span class="label-name-2-black">Projects</span></h2>
 			<p>
-				<b class="text-primary">Captive Portal</b> <b>Yondu IT Solutions</b>
-				<br/>
-				A Web page that is shown before using the Internet. 
+				<b class="text-primary">WiFi</b> <b>Yondu IT Solutions</b>
                                 <br/>
-                                We used Facebook API to login to portal and portal send a XML to Aruba Access Controller to grant the user for internet connection.
+                                System developed in Physical Server and Cloud Server(AWS and Rackspace). In Physical Server we used IPtables and  DHCP. In Cloud Server we used Aruba Networks and Squid Proxy Server. Both server has Captive Portal a web page that is shown before using the Internet it's integrated with Facebook API to login to grant internet connection.
 				<br/>
 				<br/>
 
