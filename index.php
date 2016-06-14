@@ -243,22 +243,23 @@
                   <div class="thumbnail">
                     <div class="caption">
                       <p>
-                        <b class="text-primary">Email Address</b>
+                        <b class="text-primary">LinkedIn</b>
                           <br/>
-                          <i class="fa fa-envelope" aria-hidden="true"></i>
-                          bien.jerico@gmail.com
+                          <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                          <a href="https://ph.linkedin.com/in/bien-jerico-cueto-19975748" style="text-decoration:none;color:#333;"  target="_blank">bien-jerico-cueto</a>
                       </p>
                     </div>
                   </div>
                 </div>
+
                 <div class="col-sm-6 col-md-4">
                   <div class="thumbnail">
                     <div class="caption">
                       <p>
-                        <b class="text-primary">Address</b>
+                        <b class="text-primary">Instagram</b>
                           <br/>
-                          <i class="fa fa-map-marker" aria-hidden="true"></i>
-                          Philippines
+                          <i class="fa fa-instagram" aria-hidden="true"></i>
+                          <a href="https://www.instagram.com/bienjerico/" style="text-decoration:none;color:#333;"  target="_blank">bienjerico</a>
                       </p>
                     </div>
                   </div>
@@ -277,14 +278,15 @@
                     </div>
                   </div>
                 </div>
+
                 <div class="col-sm-6 col-md-4">
                   <div class="thumbnail">
                     <div class="caption">
                       <p>
-                        <b class="text-primary">LinkedIn</b>
+                        <b class="text-primary">Email Address</b>
                           <br/>
-                          <i class="fa fa-linkedin-square" aria-hidden="true"></i>
-                          <a href="https://ph.linkedin.com/in/bien-jerico-cueto-19975748" style="text-decoration:none;color:#333;"  target="_blank">bien-jerico-cueto</a>
+                          <i class="fa fa-envelope" aria-hidden="true"></i>
+                          bien.jerico@gmail.com
                       </p>
                     </div>
                   </div>
@@ -293,10 +295,10 @@
                   <div class="thumbnail">
                     <div class="caption">
                       <p>
-                        <b class="text-primary">Instagram</b>
+                        <b class="text-primary">Address</b>
                           <br/>
-                          <i class="fa fa-instagram" aria-hidden="true"></i>
-                          <a href="https://www.instagram.com/bienjerico/" style="text-decoration:none;color:#333;"  target="_blank">bienjerico</a>
+                          <i class="fa fa-map-marker" aria-hidden="true"></i>
+                          Philippines
                       </p>
                     </div>
                   </div>
