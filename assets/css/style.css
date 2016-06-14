@@ -507,39 +507,20 @@ header {
 
 
 .carousel-control.left {
-    background-image: none;
+      opacity: 0;
+}
+.carousel-control.left:hover {
+    opacity: .5;
 }
 .carousel-control.right {
-    background-image: none;
+      opacity: 0;
+}
+.carousel-control.right:hover {
+    opacity: .5;
 }
 
-/* CUSTOMIZE THE ACCORDION
+/* Sliding Up
 -------------------------------------------------- */
-
-#accordion > h3 {
-    color:#ffffff;
-    font-weight: bolder;
-    cursor: pointer;
-    text-decoration: none;
-    text-shadow: 1px 1px #000;
-    /*border-bottom: 2px solid #f7c222;*/
-}
-#accordion > div {
-    background-color:#ffffff;
-    border-radius: 2px;
-    opacity: .8;
-}
-#accordion > div > p {
-    padding: 15px 5px 0px 5px;
-     height: 300px !important;
-}
-
-.ui-accordion-header{ padding: 5px 5px 5px 5px; }
-h1, h2, h3, h4{outline:none;}
-
-
-
-
 .come-in {
   transform: translateY(150px);
   animation: come-in 0.8s ease forwards;
