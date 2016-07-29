@@ -51,7 +51,7 @@
             <p>
               <b class="text-primary">Programming</b>
                 <br/>
-                HTML 5, PHP 5, Javascript, Ajax, JSON, jQuery, CSS3, Bootstrap, XML, Shell Script, and Basic skills in MEAN (MongoDB, Express, AngularJS and NodeJS).
+                HTML 5, PHP 5, Javascript, Ajax, JSON, jQuery, CSS3, Bootstrap and Basic skills in MEAN (MongoDB, Express, AngularJS and NodeJS).
             </p>
             <p>
               <b class="text-primary">Design</b>
@@ -103,7 +103,7 @@
                     <h3 class="text-primary">Yondu IT Solutions</h3>
                       <div>
                         <p class="font-white">
-                          <b class="text-primary">Software Engineer</b> September 2014 to Present <i>(1 year and 8 months)</i>
+                          <b class="text-primary">Software Engineer</b> September 2014 to June 2016 <i>(1 year and 10 months)</i>
                             <br/>
                             Part of New Product Development (NPD) Team and assigned project is WiFi.
                             <br/>
