@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<title>bienjerico</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
+<meta name="description" content="Software Engineer, Web Developer, Full Stack Developer, Research and Development">
+<meta name="keywords" content="HTML,CSS,JavaScript,PHP, MySQL, MEAN">
+<meta name="author" content="Bien Jerico Cueto">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>bienjerico</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Rajdhani' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
@@ -333,7 +336,7 @@
 
   ga('create', 'UA-80629363-1', 'auto');
   ga('send', 'pageview');
-  
+
 </script>
 </body>
 </html>
