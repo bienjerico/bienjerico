@@ -7,7 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>bienjerico</title>
 <link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Play|Comfortaa|Ubuntu+Condensed|Economica|Rajdhani|Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Rajdhani' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="assets/img/logo.png" />
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="assets/css/style.css">
@@ -17,12 +18,12 @@
 <script src="assets/js/responsive-nav.js"></script>
 <script src="assets/js/jquery-ui.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
-</head>
 <style>
   .text-primary{
     color:#039bad;
   }
 </style>
+</head>
 <body>
 <div class="wrapper">
   <main>
