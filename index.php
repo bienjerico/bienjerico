@@ -26,8 +26,23 @@
     color:#039bad;
   }
 </style>
+<script type="text/javascript">
+  $(window).load(function() { // makes sure the whole site is loaded
+  $('#status').fadeOut('slow'); // will first fade out the loading animation
+  $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+  $('body').delay(350).css({
+    'overflow': 'visible'
+  });
+})
+</script>
 </head>
 <body>
+<!-- Preloader -->
+<div id="preloader">
+  <div id="status"><img src="assets/img/logo.png" class="preloader-logo"></div>
+</div>
+
+
 <div class="wrapper">
   <main>
     <div class="text-center">
