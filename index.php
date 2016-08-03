@@ -12,6 +12,7 @@
 <link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Rajdhani' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Racing+Sans+One" rel="stylesheet">
 <link rel="icon" type="image/png" href="assets/img/logo.png" />
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="assets/css/style.css">
@@ -66,7 +67,7 @@
       </section>
       <section class="module content">
         <div class="container"  id="skills">
-          <h2><span class="label-name-2-black" style="font-family: 'Pacifico', cursive;">Skills</span></h2>
+          <h2><span class="label-name-2-black">Skills</span></h2>
             <p>
               <b class="text-primary">Programming</b>
                 <br/>
@@ -110,7 +111,7 @@
 
       <section class="module parallax parallax-2">
         <div class="container" id="experience">
-          <h2><span class="label-name-2-white" style="text-shadow: 1px 1px #000;font-family: 'Pacifico', cursive;">Experience</span></h2>
+          <h2><span class="label-name-2-white">Experience</span></h2>
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <!-- <ol class="carousel-indicators">
                   <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -181,14 +182,14 @@
       </section>
       <section class="module content">
         <div class="container" id="projects">
-          <h2><span class="label-name-2-black" style="font-family: 'Pacifico', cursive;">Projects</span></h2>
+          <h2><span class="label-name-2-black">Projects</span></h2>
             <p>
-              <b class="text-primary">WiFi</b> <b>Yondu IT Solutions</b>
+              <b class="text-primary">WiFi</b>
                 <br/>
                 System developed in Physical Server and Cloud Server(AWS and Rackspace). In Physical Server we used IPtables and  DHCP. In Cloud Server we used Aruba Networks and Squid Proxy Server. Both server has Captive Portal a web page that is shown before using the Internet it's integrated with Facebook API to login to grant internet connection.
                 <br/>
                 <br/>
-              <b class="text-primary">Time and Attendance System</b> <b>BPO International, Inc.</b>
+              <b class="text-primary">Time and Attendance System</b>
                 <br/>
                 Combination of Leave Management Module, Overtime Management Module, Schedule Management Module, Timekeeping Module.
                 <br/>
@@ -197,19 +198,19 @@
                 Client can access the system using internet.
                 <br/>
                 <br/>
-              <b class="text-primary">Employee Connection (E-CON)</b> <b>BPO International, Inc.</b>
+              <b class="text-primary">Employee Connection (E-CON)</b>
                 <br/>
                 System developed to show updated news, photos, birthday celebrant, employee feedback module, office directory and also connected to Time and Attendance System.
                 <br/>
                 <br/>
-                <b class="text-primary">Online Report System</b> <b>BPO International, Inc.</b>
+                <b class="text-primary">Online Report System</b>
                 <br/>
                 System provide final report (Leaves, Balance, Man-Hours Work, Absenteeism, Pay Slip PDF and Credit Profile PDF) from Time and Attendance System.
                 <br/>
                 Some of the client use ASP.NET for their company system, using SOAP can access the system.
                 <br/>
                 <br/>
-              <b class="text-primary">Account Payable and Expenses Report Monitoring System</b> <b>BPO International, Inc.</b>
+              <b class="text-primary">Account Payable and Expenses Report Monitoring System</b>
                 <br/>
                 System developed to track and monitor the status of client invoice.
                 <br/>
@@ -224,7 +225,7 @@
       </section>
       <section class="module parallax parallax-3">
         <div class="container" id="certificate">
-          <h2><span class="label-name-2-white" style="font-family: 'Pacifico', cursive;">Certificate</span></h2>
+          <h2><span class="label-name-2-white">Certificate</span></h2>
             <p class="font-white">
               <b class="text-primary">Microsoft Certified Professional</b>
                 <br/>
@@ -244,7 +245,7 @@
         </section>
         <section class="module content">
           <div class="container" id="contact">
-            <h2><span class="label-name-2-black" style="font-family: 'Pacifico', cursive;">Contact Me</span></h2>
+            <h2><span class="label-name-2-black">Contact Me</span></h2>
               <div class="row">
                 <div class="col-sm-6 col-md-4">
                   <div class="thumbnail">
