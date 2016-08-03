@@ -217,7 +217,7 @@
                 This system use by Receiver, Processor and Reviewer to process the invoice.
                 <br/>
                 <br/>
-                <b class="text-primary">Consumer Training Program</b> <b>SEPCO</b>
+                <b class="text-primary">Consumer Training Program</b>
                 <br/>
                 Online training registration for the consumer.
             </p>
