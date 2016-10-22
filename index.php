@@ -9,10 +9,7 @@
 <meta name="author" content="Bien Jerico Cueto">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Rajdhani' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
-<link href="https://fonts.googleapis.com/css?family=Racing+Sans+One" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
 <link rel="icon" type="image/png" href="assets/img/logo.png" />
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="assets/css/style.css">
@@ -71,7 +68,7 @@
             <p>
               <b class="text-primary">Programming</b>
                 <br/>
-                HTML 5, PHP 5, Javascript, Ajax, JSON, jQuery, CSS3, Bootstrap and Basic skills in MEAN (MongoDB, Express, AngularJS and NodeJS).
+                HTML5, CSS3, Javascript, Ajax, JSON, jQuery,  PHP 5,  Bootstrap, Familiar with Foundation Framework and Basic skills in MEAN (MongoDB, Express, AngularJS and NodeJS).
             </p>
             <p>
               <b class="text-primary">Design</b>
@@ -81,7 +78,7 @@
             <p>
               <b class="text-primary">Database</b>
                 <br/>
-                MySQL, MSSQL, Oracle: 9i, MS Access
+                MySQL and Familiar with MSSQL, Oracle: 9i and MS Access
             </p>
             <p>
               <b class="text-primary">Networking</b>

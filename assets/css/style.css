@@ -1,5 +1,6 @@
 *{
-  font-family: 'Muli', sans-serif;
+  /*font-family: 'Muli', sans-serif;*/
+  font-family: 'Quicksand', sans-serif;
   font-weight: 300;
 }
 
@@ -41,21 +42,21 @@ note {
 
 .label-name{
     font-weight: bold;
-    font-family: 'Racing Sans One', cursive;
+    /*font-family: 'Racing Sans One', cursive;*/
     font-size: 150px;
     color: #ffffff;
 }
 
 .label-name-2-white{
     font-weight: bold;
-    font-family: 'Racing Sans One', cursive;
+    /*font-family: 'Racing Sans One', cursive;*/
     font-size: 50px;
     color: #ffffff;
 }
 
 .label-name-2-black{
     font-weight: bold;
-    font-family: 'Racing Sans One', cursive;
+    /*font-family: 'Racing Sans One', cursive;*/
     font-size: 50px;
     color: #000;
 }
@@ -81,7 +82,7 @@ section.module.parallax {
   height: 900px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -101,37 +102,37 @@ section.module.parallax-1 {
   height: 500px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-image: url("../img/Collages.jpg");
+  background-image: url("../img/black-and-white-man-person-hands-min.jpg");
 }
 section.module.parallax-2 {
   padding-top: 80px;
   height: 700px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-image: url("../img/Pinto Art Museum 2015.jpg");
+  background-image: url("../img/pexels-photo-129208-min.jpeg");
 }
 section.module.parallax-3 {
   padding-top: 80px;
   height: 500px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 
-  background-image: url("../img/Pinto Art Museum 20151.jpg");
+  background-image: url("../img/pexels-photo-29977-min.jpg");
 }
 @media all and (min-width: 320px) {
 
@@ -142,14 +143,14 @@ section.module.parallax-3 {
     }
     .label-name-2-white{
         font-weight: bold;
-        font-family: 'Racing Sans One', cursive;
+        /*font-family: 'Racing Sans One', cursive;*/
         font-size: 30px;
         color: #ffffff;
     }
 
     .label-name-2-black{
         font-weight: bold;
-        font-family: 'Racing Sans One', cursive;
+        /*font-family: 'Racing Sans One', cursive;*/
         font-size: 30px;
         color: #000;
     }
@@ -173,14 +174,14 @@ section.module.parallax-3 {
 
       .label-name-2-white{
         font-weight: bold;
-        font-family: 'Racing Sans One', cursive;
+        /*font-family: 'Racing Sans One', cursive;*/
         font-size: 40px;
         color: #ffffff;
     }
 
     .label-name-2-black{
         font-weight: bold;
-        font-family: 'Racing Sans One', cursive;
+        /*font-family: 'Racing Sans One', cursive;*/
         font-size: 40px;
         color: #000;
     }
@@ -198,14 +199,14 @@ section.module.parallax-3 {
 
       .label-name-2-white{
         font-weight: bold;
-        font-family: 'Racing Sans One', cursive;
+        /*font-family: 'Racing Sans One', cursive;*/
         font-size: 50px;
         color: #ffffff;
     }
 
     .label-name-2-black{
         font-weight: bold;
-        font-family: 'Racing Sans One', cursive;
+        /*font-family: 'Racing Sans One', cursive;*/
         font-size: 50px;
         color: #000;
     }
@@ -276,7 +277,8 @@ section.module.parallax-3 {
 --------------------------------------------- */
 
 header {
-  background: #F7C222;
+  /*background: #039bad;;*/
+  background: #1a1a1c;
   position: fixed;
   z-index: 3;
   width: 100%;
@@ -332,9 +334,9 @@ header {
 
 .nav-collapse a {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
-  border-top: 1px solid #ffc700;
+  border-top: 1px solid #ffffff;
   text-decoration: none;
-  background: #F7C222;
+  background: #1a1a1c;
   padding: 0.7em 1em;
   color: #fff;
   width: 100%;
@@ -343,12 +345,12 @@ header {
 
 .nav-collapse a:active,
 .nav-collapse .active a {
-  background: #5e5e5e;
+  background: #039bad;
 }
 
 @media screen and (min-width: 40em) {
   .nav-collapse a {
-    border-left: 1px solid #ffc700;
+    border-left: 1px solid #ffffff;
     padding: 1.02em 2em;
     text-align: center;
     border-top: 0;
@@ -537,14 +539,14 @@ header {
   to { transform: translateY(0); }
 }
 
-@-moz-keyframes spin { 
-  100% { -moz-transform: rotate(360deg); } 
+@-moz-keyframes spin {
+  100% { -moz-transform: rotate(360deg); }
 }
-@-webkit-keyframes spin { 
-  100% { -webkit-transform: rotate(360deg); } 
+@-webkit-keyframes spin {
+  100% { -webkit-transform: rotate(360deg); }
 }
-@keyframes spin { 
-  100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } 
+@keyframes spin {
+  100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); }
 }
 .preloader-logo {
     -webkit-animation:spin 3s linear infinite;
@@ -567,5 +569,11 @@ header {
     top: 50%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%) 
+    transform: translate(-50%, -50%)
+}
+
+
+.carousel-control.left,
+.carousel-control.right {
+  background: none;
 }
