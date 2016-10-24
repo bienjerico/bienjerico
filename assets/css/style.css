@@ -334,10 +334,10 @@ header {
 
 .nav-collapse a {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
-  border-top: 1px solid #ffffff;
+  /*border-top: 1px solid #ffffff;*/
   text-decoration: none;
   background: #1a1a1c;
-  padding: 0.7em 1em;
+  padding: 1.2em 1em;
   color: #fff;
   width: 100%;
   float: left;
@@ -350,7 +350,7 @@ header {
 
 @media screen and (min-width: 40em) {
   .nav-collapse a {
-    border-left: 1px solid #ffffff;
+    /*border-left: 1px solid #ffffff;*/
     padding: 1.02em 2em;
     text-align: center;
     border-top: 0;
