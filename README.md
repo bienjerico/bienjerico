@@ -10,7 +10,7 @@ Hi, My name is Bien 🤖
 Senior Full-Stack Web Developer
 -------------------------------
 
-I have been working at a software company in Dubai for the past 7 years. 
+I have been working at a software company for 13 years. 
 Our company specializes in developing enterprise systems that provide solutions across various industries. 
 As a key member of the team, my primary responsibilities include:
 - Full-stack Development: Designing and implementing both front-end and back-end components.
