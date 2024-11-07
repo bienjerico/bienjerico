@@ -12,7 +12,8 @@ Senior Full-Stack Web Developer
 
 I have been working at a software company in Dubai for the past 7 years. 
 Our company specializes in developing enterprise systems that provide solutions across various industries. 
-As a key member of the team, my primary responsibilities include: - Full-stack Development: Designing and implementing both front-end and back-end components. 
+As a key member of the team, my primary responsibilities include:
+- Full-stack Development: Designing and implementing both front-end and back-end components. 
 - Code Review and Approval: Ensuring code quality and adherence to best practices.
 - Support: Providing technical support and troubleshooting issues.
 - System Testing: Conducting thorough testing to ensure system reliability and performance.
@@ -74,9 +75,6 @@ As a key member of the team, my primary responsibilities include: - Full-stack D
 
 #### Github Status
 ![bienjerico GitHub stats](https://github-readme-stats.vercel.app/api?username=bienjerico&show_icons=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-
-
-<a href="http://www.github.com/bienjerico"><img src="https://github-readme-stats.vercel.app/api?username=bienjerico&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="bienjerico's GitHub stats" /></a>
-
-<a href="https://github.com/bienjerico" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienjerico&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
