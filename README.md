@@ -13,7 +13,8 @@ Senior Full-Stack Web Developer
 I have been working at a software company in Dubai for the past 7 years. 
 Our company specializes in developing enterprise systems that provide solutions across various industries. 
 As a key member of the team, my primary responsibilities include:
-- Full-stack Development: Designing and implementing both front-end and back-end components. 
+- Full-stack Development: Designing and implementing both front-end and back-end components.
+- Research and Development: Conducting research and developing innovative solutions from scratch to meet evolving project requirements.
 - Code Review and Approval: Ensuring code quality and adherence to best practices.
 - Support: Providing technical support and troubleshooting issues.
 - System Testing: Conducting thorough testing to ensure system reliability and performance.
