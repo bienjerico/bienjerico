@@ -1,11 +1,5 @@
 Hi, My name is Bien Jerico Cueto 🤖
 =========================================================================================================================================
-<a href="mailto:bien.jerico@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://bienjerico.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" />
-</a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bien.jerico@gmail.com)
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://bienjerico.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bien-jerico-cueto-19975748/)
@@ -16,13 +10,18 @@ Hi, My name is Bien Jerico Cueto 🤖
 Senior Full-Stack Web Developer
 -------------------------------
 
-I have been working at a software company in Dubai for the past 7 years. Our company specializes in developing enterprise systems that provide solutions across various industries. As a key member of the team, my primary responsibilities include: - Full-stack Development: Designing and implementing both front-end and back-end components. - Code Review and Approval: Ensuring code quality and adherence to best practices. - Support: Providing technical support and troubleshooting issues. - System Testing: Conducting thorough testing to ensure system reliability and performance. - Implementation: Deploying systems and ensuring smooth integration. - Training: Mentoring and training new team members.
+I have been working at a software company in Dubai for the past 7 years. 
+Our company specializes in developing enterprise systems that provide solutions across various industries. 
+As a key member of the team, my primary responsibilities include: - Full-stack Development: Designing and implementing both front-end and back-end components. 
+- Code Review and Approval: Ensuring code quality and adherence to best practices.
+- Support: Providing technical support and troubleshooting issues.
+- System Testing: Conducting thorough testing to ensure system reliability and performance.
+- Implementation: Deploying systems and ensuring smooth integration.
+- Training: Mentoring and training new team members.
 
 * 🌍  I'm based in Dubai
-* 🖥️  See my portfolio at [bienjerico.github.io](http://bienjerico.github.io)
-* ✉️  You can contact me at [bien.jerico@gmail.com](mailto:bien.jerico@gmail.com)
-* 🧠  I'm learning Golang and Microsoft Azure Fundamentals AZ-900
-* 🤝  I'm open to collaborating on Web Development and Learning New Technologies
+* 🧠  I'm learning Golang, Tailwind CSS and Microsoft Azure Fundamentals AZ-900
+* 🤝  I'm open to collaborating on Web Development, Learning New Technologies
 
 #### Current Professions
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
