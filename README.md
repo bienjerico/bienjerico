@@ -22,7 +22,7 @@ As a key member of the team, my primary responsibilities include:
 - Training: Mentoring and training new team members.
 
 🌍  I'm based in Dubai <br>
-🧠  I'm learning Golang, Tailwind CSS and Microsoft Azure Fundamentals AZ-900 <br>
+🧠  I'm learning Angular, Typescript, Golang, Tailwind CSS and Microsoft Azure Fundamentals AZ-900 <br>
 🤝  I'm open to collaborating on Web Development, Learning New Technologies <br>
 
 #### Current technologies I'm using...
