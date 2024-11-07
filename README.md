@@ -21,9 +21,9 @@ As a key member of the team, my primary responsibilities include:
 - Implementation: Deploying systems and ensuring smooth integration.
 - Training: Mentoring and training new team members.
 
-* 🌍  I'm based in Dubai
-* 🧠  I'm learning Golang, Tailwind CSS and Microsoft Azure Fundamentals AZ-900
-* 🤝  I'm open to collaborating on Web Development, Learning New Technologies
+🌍  I'm based in Dubai <br>
+🧠  I'm learning Golang, Tailwind CSS and Microsoft Azure Fundamentals AZ-900 <br>
+🤝  I'm open to collaborating on Web Development, Learning New Technologies <br>
 
 #### Current technologies I'm using...
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
