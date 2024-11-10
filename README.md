@@ -7,7 +7,7 @@ Hi, My name is Bien 🤖
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bcueto1)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.com/bienjerico)
 
-Senior Full-Stack Web Developer
+Full-Stack Developer
 -------------------------------
 
 I have been working at a software company for 13 years. 
